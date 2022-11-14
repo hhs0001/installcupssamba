@@ -17,7 +17,7 @@ apt-get update
 
 # Instala o cups e o samba
 
-apt-get install cups samba
+apt-get install cups samba -y
 
 # Cria o grupo de trabalho REDES2022
 
