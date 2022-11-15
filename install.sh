@@ -78,4 +78,8 @@ apt-get install cups-pdf
 
 sudo chmod +s /usr/lib/cups/backend/cups-pdf
 
+#restart dos serviços
+
+systemctl restart cups smb nmb
+
 echo "Fim do script"
