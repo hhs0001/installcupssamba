@@ -36,7 +36,7 @@ Depois basta mudar o diretório e dar inicio a Instalação
 ## Autores
 
 - [@hhs0001](https://www.github.com/hhs0001)
-- [@autor2](https://www.github.com/autor2)
+- [@ResT-0](https://www.github.com/ResT-0)
 - [@autor3](https://www.github.com/autor3)
 - [@autor4](https://www.github.com/autor4)
 
